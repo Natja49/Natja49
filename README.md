@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Natja49
-- 👀 I’m interested in dev/web
-- 🌱 I’m currently learning  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested on dev/web
+- 🌱 I’m currently learning on dev/web
+- 💞️ I’m looking to collaborate on a entreprise's stage for december during two months in angers
+- 📫 How to reach me by mail
+- thank u
 
 <!---
 Natja49/Natja49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
